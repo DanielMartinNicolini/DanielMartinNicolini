@@ -59,15 +59,6 @@ Hice un curso de Introduccion a la Programacion y diseño web. Tambien soy estud
 
 ---
 
-
-### 📊 Profile stats
-
-[![Mohamed Magdi 's github stats](https://github-readme-stats.vercel.app/api?username=Mo-Alsehli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mo-Alshli/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Alsehli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mohamed_magdi" /></p>
-
----
-
 ### 📊 Profile contribution
 
 > 3D Contrib
