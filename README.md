@@ -58,11 +58,7 @@ Hice un curso de Introduccion a la Programacion y diseño web. Tambien soy estud
 </p>
 
 ---
-### ✨ Visitors
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mo-Alsehli" alt="Mo-Alsehli" /> </p>
-
----
 
 ### 📊 Profile stats
 
